@@ -2,17 +2,20 @@ body
 {
 background-color: gray;
 font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 footer
 {
     text-align: center;
-=======
+}
 h2
 {
     color: green;
     font-family: fantasy;
     text-align: center;
 
+>>>>>>> plano2
+=======
 >>>>>>> plano2
 }
